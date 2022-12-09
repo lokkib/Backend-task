@@ -10,6 +10,8 @@
   },
   "author": "Sergey",
   "dependencies": {
+    "dotenv": "^16.0.3",
+    "mongoose": "^6.7.4",
     "nodemon": "^2.0.20"
   }
 }
